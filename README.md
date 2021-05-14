@@ -1,5 +1,5 @@
 <h1 align="center">RocketShoes</h1>
-<p align="center">Desafio proposto durante o segundo módulo do Ignite de React da rocketseat.</p>
+<p align="center">Desafio proposto durante o segundo módulo do Ignite de React da Rocketseat.</p>
 
 
 ### 🛠 Tecnologias
@@ -9,6 +9,31 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/) 
 - [JSON Server](https://github.com/typicode/json-server)
+
+### Desafio
+
+Nesse desafio, criamos uma aplicação para treinar o que aprendemos até agora no ReactJS.
+
+Essa aplicação tinha o principal objetivo de criar um hook de carrinho de compras. Os desafios eram:
+
+- Adicionar um novo produto ao carrinho;
+
+- Remover um produto do carrinho;
+
+- Alterar a quantidade de um produto no carrinho;
+
+- Cálculo dos preços sub-total e total do carrinho;
+
+- Validação de estoque;
+
+- Exibição de mensagens de erro usando o toastify;
+
+- Perpetuar os dados no localStorage.
+
+- Entre outros.
+
+Para resolução do desafio usamos uma fake API com o JSON Server.
+
 
 <h1>📱 Como usar? </h1> 
 
